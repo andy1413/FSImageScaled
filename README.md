@@ -14,7 +14,7 @@ It is very easy to use FSImageScaled while image scaled, you can take a look at 
 <img src = "http://7x2w39.com1.z0.glb.clouddn.com/FSImageScaled_SourceImage.jpg" />
 <img src = "http://7x2w39.com1.z0.glb.clouddn.com/FSImageScaled_Xib.png" />
 <img src = "http://7x2w39.com1.z0.glb.clouddn.com/FSImageScaled_Example.png" />
-
+<video src="http://7x2w39.com1.z0.glb.clouddn.com/FSGestureRecognizer_Video.mov" controls="controls" />
 
 ## License
 Copyright © 2015 王方帅.
